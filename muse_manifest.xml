@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingsignals.net" resolutions="1x,2x" timestamp="1516227316506">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingsignals.net" resolutions="1x,2x" timestamp="1516228605198">
   <folder name="css">
     <file name="site_global.css" crc="306774395"/>
     <file name="master_a-master.css" crc="474408745" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="287391711" ref="index"/>
-    <file name="index.css" crc="3763743774" ref="index"/>
-    <file name="nomq_index.css" crc="4143105563" ref="index"/>
+    <file name="index.css" crc="521665218" ref="index"/>
+    <file name="nomq_index.css" crc="430403674" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -676,5 +676,5 @@
     <file name="gb header 1188 (compress)-min-u10865-fr4.jpg" crc="263569158" ref="index"/>
     <file name="gb header 1188 (compress)-min-u10865-fr_2x4.jpg" crc="87348622" ref="index"/>
   </folder>
-  <file name="index.html" crc="3792553366" seo="true" mt="1516227224772" redirect="true"/>
+  <file name="index.html" crc="4073575987" seo="true" mt="1516228497643" redirect="true"/>
 </manifest>
