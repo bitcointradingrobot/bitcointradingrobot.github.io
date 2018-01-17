@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingrobot.net" resolutions="1x,2x" timestamp="1516165935962">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bitcoingtradingsignals.net" resolutions="1x,2x" timestamp="1516227316506">
   <folder name="css">
     <file name="site_global.css" crc="306774395"/>
-    <file name="master_a-master.css" crc="207623592" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="56009400" ref="index"/>
-    <file name="index.css" crc="4086013311" ref="index"/>
-    <file name="nomq_index.css" crc="4202632102" ref="index"/>
+    <file name="master_a-master.css" crc="474408745" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="287391711" ref="index"/>
+    <file name="index.css" crc="3763743774" ref="index"/>
+    <file name="nomq_index.css" crc="4143105563" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,7 +21,7 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u15062.php" crc="490618781" ref="index"/>
+    <file name="form-u15062.php" crc="3799746730" ref="index"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
@@ -29,7 +29,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="4179814737" ref="index"/>
+    <file name="home-favicon.ico" crc="3966869494" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="multi with subtelegram-min.jpg" crc="479000118" ref="index">
       <caption webpage="index" alt=""/>
@@ -119,10 +119,10 @@
     <file name="gb zeno 11 (resized)-crop-u9479_2x.jpg" crc="4226498357" seo="true" ref="index">
       <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467.jpg" crc="313434039" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467.jpg" crc="106174915" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x.jpg" crc="7338567" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x.jpg" crc="89531534" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 9(rz)-crop-u8833.jpg" crc="388941291" seo="true" ref="index">
@@ -188,10 +188,10 @@
     <file name="gb zeno 11 (resized)-crop-u9479_2x2.jpg" crc="4226498357" seo="true" ref="index">
       <caption webpage="index" alt="picture of zeno gui showing how easy it is for the gunbot to divide trades of different cryptocurrency pairs into seperate instances."/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254672.jpg" crc="313434039" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254672.jpg" crc="106174915" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x2.jpg" crc="7338567" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x2.jpg" crc="89531534" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 9(rz)-crop-u88332.jpg" crc="388941291" seo="true" ref="index">
@@ -273,10 +273,10 @@
     <file name="gb zeno 11 (resized).jpg" crc="3968215838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254673.jpg" crc="313434039" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254673.jpg" crc="106174915" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x3.jpg" crc="7338567" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x3.jpg" crc="89531534" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 11 (resized)-crop-u94793.jpg" crc="526718846" seo="true" ref="index">
@@ -356,10 +356,10 @@
     <file name="gb zeno 11 (resized)664x332.jpg" crc="462162983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254674.jpg" crc="3872077504" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254674.jpg" crc="3906081591" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x4.jpg" crc="3998226926" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x4.jpg" crc="161387869" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 1(iy)-crop-u103194.jpg" crc="86710655" seo="true" ref="index">
@@ -449,10 +449,10 @@
     <file name="gb zeno 1(iy)-crop-u10319_2x5.jpg" crc="237707045" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254675.jpg" crc="3872077504" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254675.jpg" crc="3906081591" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x5.jpg" crc="3998226926" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x5.jpg" crc="161387869" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 10(rz)-crop-u89475.jpg" crc="4076314389" seo="true" ref="index">
@@ -542,10 +542,10 @@
     <file name="gb zeno 1(iy)-crop-u10319_2x6.jpg" crc="501428910" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254676.jpg" crc="483943398" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254676.jpg" crc="3909414109" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x6.jpg" crc="419582085" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x6.jpg" crc="3869065382" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 7(rz)-crop-u87206.jpg" crc="199867953" seo="true" ref="index">
@@ -595,10 +595,10 @@
     <file name="gb zeno 1(iy)-crop-u10279.jpg" crc="4252062700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25437.jpg" crc="4255085025" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25437.jpg" crc="3988430506" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25437_2x.jpg" crc="4291153377" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25437_2x.jpg" crc="3822845431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gb zeno 113111x182.jpg" crc="4115484502" seo="true" ref="index">
@@ -631,10 +631,10 @@
     <file name="gb zeno 1(iy)-crop-u10319_2x7.jpg" crc="27148154" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u254677.jpg" crc="3819836954" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u254677.jpg" crc="519759397" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
-    <file name="gb z 5 9resize)-crop-u25467_2x7.jpg" crc="4135513531" seo="true" ref="index">
+    <file name="gb z 5 9resize)-crop-u25467_2x7.jpg" crc="4184430356" seo="true" ref="index">
       <caption webpage="index" alt="example of Gunbot Bitcoin trading Robot's Gui"/>
     </file>
     <file name="gb zeno 7(rz)-crop-u87207.jpg" crc="525725735" seo="true" ref="index">
@@ -676,5 +676,5 @@
     <file name="gb header 1188 (compress)-min-u10865-fr4.jpg" crc="263569158" ref="index"/>
     <file name="gb header 1188 (compress)-min-u10865-fr_2x4.jpg" crc="87348622" ref="index"/>
   </folder>
-  <file name="index.html" crc="4278218575" seo="true" mt="1516165656938" redirect="true"/>
+  <file name="index.html" crc="3792553366" seo="true" mt="1516227224772" redirect="true"/>
 </manifest>
